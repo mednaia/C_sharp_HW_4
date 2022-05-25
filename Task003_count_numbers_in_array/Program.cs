@@ -17,6 +17,7 @@ for (int i = 0; i < array.Length; i++)
             countOdd++;
         }
     }
+Console.WriteLine();
 Console.Write($"The number of even in array is {countEven}.");
 Console.WriteLine();
-Console.Write($"The number of even in array is {countOdd}.");
+Console.Write($"The number of odd in array is {countOdd}.");
